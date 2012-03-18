@@ -1,0 +1,8 @@
+.classpath
+.settings/
+.metadata
+target/
+bin/
+stats/
+.pmd
+
